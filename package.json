@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "name": "@arolonger/react-scripts",
+  "version": "3.3.0",
+  "repository": {
+    "url": "https://github.com/arolonger/cra-classic-bem",
+    "type": "git"
+  },
   "workspaces": [
     "packages/*"
   ],
@@ -56,5 +61,8 @@
     "yarn.lock": [
       "git rm --cached"
     ]
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
   }
 }

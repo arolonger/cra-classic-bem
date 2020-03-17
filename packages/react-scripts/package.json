@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "3.4.0",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "@arolonger/react-scripts",
+  "version": "3.4.1",
+  "description": "Configuration and scripts for Create React App. BEM like (CRA 3.4.0) with fix",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/arolonger/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
